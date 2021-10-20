@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (proje_pg.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Kaynak.cpp
+C:\Users\omarg\Documents\all_\update\sfaf\kutuphane_otomasyonu\proje_pg\Kaynak.cpp(31,48): warning C4101: 'eski_kitap_alinabil': yerel değişken başvurusu kaldırıldı
+  proje_pg.vcxproj -> C:\Users\omarg\Documents\all_\update\sfaf\kutuphane_otomasyonu\Debug\kutuphaneotomasyonu.exe

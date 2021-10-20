@@ -1,0 +1,5 @@
+6001 kitap1 ad1 soyad1 konu1 tur1 111
+6002 kitap2 ad2 soyad2 konu2 tur2 222
+6003 kitap3 ad3 soyad3 konu3 tur3 333
+6004 kitap4 ad4 soyad4 konu4 tur4 444
+6005 kitap5 ad5 soyad5 konu5 tur5 555
